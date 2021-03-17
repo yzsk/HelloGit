@@ -5,5 +5,6 @@ object Hello {
     println("hello world!")
     println("更新1")
     println("创建分支")
+    println("主干添加")
   }
 }
